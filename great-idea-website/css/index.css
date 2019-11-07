@@ -64,3 +64,132 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*------------------------------------------------------------------------------------------------------------------------------*/
+
+.nav{
+	/* border :2px solid red; */
+}
+nav a {
+	text-decoration: none;
+	color:gray;
+	margin: 5%;
+	
+
+
+}
+nav img{
+	/* border :2px solid green; */
+	display: inline-block;
+
+}
+.div1{
+	/* border :2px solid green; */
+	padding-bottom:25%;
+	display:inline-block;
+	width: 30%;
+	margin:0% 0 0 10%;
+	height: 0%;
+	
+	
+}
+
+.header{
+	/* border :2px solid blue; */
+	width: 50%;
+	display:inline-block;
+	height: 56%;
+	
+
+
+}
+
+header h1{
+	
+	padding: 0% 0% 0 0%;
+	
+	font-size: 600%;
+}
+
+.iod-div{
+	margin:20% 0 0 75%;
+}
+
+
+button{
+	margin:0% 0 0 75%;
+	padding: 0% 16% 0% 16%;
+	border :2px solid black;
+	font-size: 200%;
+}
+
+header img{
+	/* border :2px solid orangered; */
+	display: inline-block;
+	
+	position: absolute;
+	left: 60%;
+	top: 15%;
+	bottom: 90%;
+
+
+	
+}
+
+.top{
+	/* border :8px solid pink; */
+}
+
+.top p{
+	display: inline-block;
+	height: 0%;
+}
+
+.top-img{
+	margin:0 0 -80% 0;
+}
+
+.top-a{
+	display:inline-block;
+	width: 44%;
+	padding: 0 0 4% 0%;
+}
+
+hr{
+	border-bottom: 3px solid black;
+}
+
+
+
+.bottom{
+	/* border :2px solid lightsalmon; */
+
+}
+.bottom-b{
+	display: inline-block;
+	width: 30%;
+	padding: 1%;
+}
+.contact{
+	/* border :2px solid darkviolet; */
+	width: 100%;
+	margin:6%;
+	display: block;
+	
+}
+
+.middle-img{
+display: block;
+right:0%;
+
+width: 100%;
+}
+
+
+
+.footer{
+	/* border :2px solid darkolivegreen; */
+	display: block;
+	
+	
+	
+}
